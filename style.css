@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+div {
+  width: 25%;
+  height: 100px;
+  display: inline-block;
+  font-size: 30px;
+  vertical-align: top;
+  margin: 14px;
+}
+
+#div1 {
+  background-color: #2C5F2D;
+  margin-right: 7px;
+}
+
+#div2 {
+  background-color: #97BC62FF;
+  margin-left: 7px;
+}
+
+#em {
+  font-size: 2em;
+  color: #97BC62FF;
+}
+
+#rem {
+  font-size: 2rem;
+  color: #2C5F2D;
+}
