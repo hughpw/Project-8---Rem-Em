@@ -36,3 +36,8 @@ div {
   font-size: 2rem;
   color: #2C5F2D;
 }
+
+p {
+  text-align: center;
+  line-height: 100px;
+}
